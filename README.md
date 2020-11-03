@@ -1,7 +1,7 @@
 # Docker FSD
 一个Docker化的FSD服务端。
 
-# Bulid
+# Build
 
 `docker build -t fsd .`
 
