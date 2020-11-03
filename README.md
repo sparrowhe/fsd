@@ -5,6 +5,8 @@
 
 `docker build -t fsd .`
 
+镜像会储存在本机，运行时需要自行修改镜像名称
+
 # Run
 
 `docker run -d --name fsd-server -p 3010:3010 -p 3011:3011 -p 6809:6809 -v /root/config:/usr/app/config sparrowhe/fsd`
