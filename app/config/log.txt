@@ -1,0 +1,47 @@
+02-11-120 11:58:54 : Booting server
+02-11-120 11:58:54 FSD: Reading certificates from 'cert.txt'
+02-11-120 11:58:54 FSD: Booting port 6809 (client interface)
+02-11-120 11:58:54 FSD: Booting port 3011 (server interface)
+02-11-120 11:58:54 FSD: Booting port 3010 (system management interface)
+02-11-120 11:58:54 FSD: No 'allowfrom' found, allowing everybody on the server port
+02-11-120 11:58:54 FSD: We are up
+02-11-120 11:58:56 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 11:58:56 FSD: Reading certificates from 'cert.txt'
+02-11-120 12:01:18 FSD: Connection accepted from 39.83.3.169 on client interface
+02-11-120 12:01:19 FSD: client from 39.83.3.169 removed from client interface:closed on command
+02-11-120 12:01:39 FSD: Connection accepted from 39.83.3.169 on client interface
+02-11-120 12:01:40 FSD: client from 39.83.3.169 removed from client interface:closed on command
+02-11-120 12:02:25 FSD: Connection accepted from 39.83.3.169 on client interface
+02-11-120 12:02:26 FSD: client from 39.83.3.169 removed from client interface:closed on command
+02-11-120 12:10:01 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 12:48:24 FSD: Connection accepted from scanner-08.ch1.censys-scanner.com on system management interface
+02-11-120 12:48:24 FSD: Connection accepted from scanner-08.ch1.censys-scanner.com on system management interface
+02-11-120 12:48:24 FSD: client from scanner-08.ch1.censys-scanner.com removed from system management interface:connection closed
+02-11-120 12:48:26 FSD: client from scanner-08.ch1.censys-scanner.com removed from system management interface:connection closed
+02-11-120 13:10:10 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 14:10:01 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 15:10:01 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 16:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 17:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 17:43:24 FSD: Connection accepted from scanner-08.ch1.censys-scanner.com on server interface
+02-11-120 17:43:25 FSD: client from scanner-08.ch1.censys-scanner.com removed from server interface:connection closed
+02-11-120 18:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 18:33:26 FSD: Connection accepted from ec2-161-189-107-126.cn-northwest-1.compute.amazonaws.com.cn on system management interface
+02-11-120 18:33:27 FSD: client from ec2-161-189-107-126.cn-northwest-1.compute.amazonaws.com.cn removed from system management interface:connection closed
+02-11-120 19:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 20:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 21:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 22:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+02-11-120 23:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 00:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 01:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 02:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 03:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 04:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 05:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 06:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 07:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 08:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 09:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 10:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
+03-11-120 11:10:00 FSD: ** METAR: Could not lookup METAR host name weather.noaa.gov.
